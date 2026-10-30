@@ -1,0 +1,1401 @@
+{
+ "country": "LA",
+ "acts": [
+  {
+   "slug": "treaties",
+   "short": "UNTC",
+   "title": "Treaty actions of Laos (UN Treaty Collection): signature, ratification, accession",
+   "url": "https://treaties.un.org/Pages/ParticipationStatus.aspx",
+   "versions": [
+    {
+     "from": "1950-05-17",
+     "units": 1,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "3c4ca6ababdc21642a9aed7b1f13c41c90e5f45e819c9f74ea02ff9a55b0a24f"
+    },
+    {
+     "from": "1950-12-08",
+     "units": 2,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "b82dea0e203ec219f1b5b7fdbd23e6379e030182695264f8ee49eafdd2f671b6"
+    },
+    {
+     "from": "1962-12-03",
+     "units": 3,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "5b54a78950d6a8a171e8ab14f65a9f621a64be19a9b8fab581608428082cfe1c"
+    },
+    {
+     "from": "1973-06-22",
+     "units": 4,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "17dcc869d0af6f7d51f010c6ac1ae6d27a71dbf47ea8798520bccd8f28827c3a"
+    },
+    {
+     "from": "1973-08-09",
+     "units": 5,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "a36e40f610bab6dea25f1f96ff546b6fde68eddfa644cee0282be411687c9697"
+    },
+    {
+     "from": "1974-02-22",
+     "units": 6,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "14598fc59517a98851c44bf264ff438351f76f84ffc73192511e250fb67c6697"
+    },
+    {
+     "from": "1978-04-13",
+     "units": 7,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "7ba8ded2f0142e291fd113019e5fe7ae8359cccaac3035e6822e0f757e31c0b4"
+    },
+    {
+     "from": "1978-10-05",
+     "units": 7,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "7ba8ded2f0142e291fd113019e5fe7ae8359cccaac3035e6822e0f757e31c0b4"
+    },
+    {
+     "from": "1980-07-17",
+     "units": 8,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "f7c9edcdd4c49d94a0c2ded4937bca281f839149f05f4d42d57230aa8b7058bb"
+    },
+    {
+     "from": "1981-08-14",
+     "units": 8,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "f7c9edcdd4c49d94a0c2ded4937bca281f839149f05f4d42d57230aa8b7058bb"
+    },
+    {
+     "from": "1981-10-05",
+     "units": 9,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "0208e585c7c08f631936b0e8153763e1ca5898936a76468842aa9b2810e91e40"
+    },
+    {
+     "from": "1982-12-10",
+     "units": 10,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "20de99564d95a3cc4643e62beddcefc09189d979338135b172cd27d5a23adfac"
+    },
+    {
+     "from": "1984-12-28",
+     "units": 11,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "e1f4f0944faad5dc6fc16211034afbe9c64e3a5991c81abe9fd2440a9c2b90ad"
+    },
+    {
+     "from": "1986-09-12",
+     "units": 12,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "3a48ec4ad081fde2ae09637e82d60abda714c436d6523e7c078dfb46a71f2fe9"
+    },
+    {
+     "from": "1989-10-20",
+     "units": 13,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "1ef96848466994efe5c007c2a1951a31b89b691dde0b8c424ccd7d7b337ff0a9"
+    },
+    {
+     "from": "1991-05-08",
+     "units": 14,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "88de2275209d7d11b3fce45ac9f5a1a7813a1f63e592ab6addb6f7416a9a2828"
+    },
+    {
+     "from": "1995-01-04",
+     "units": 15,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "be0de3f0f5b9cbf6565323b1d7ac374fffb7db237565b5e2e87721f185553b3b"
+    },
+    {
+     "from": "1995-08-30",
+     "units": 16,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "9831c683a97e93c83a0ca6b015fd1ae1a13235f30267d3dd2a403201d0f5fc9f"
+    },
+    {
+     "from": "1996-09-20",
+     "units": 17,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "8b4f9ce9394e9ec772666a5010651b2c112c847f84e66f9ddaf85885b48169ab"
+    },
+    {
+     "from": "1997-09-22",
+     "units": 18,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "92bcb788216db8f559bde7a569ecf2a8e197eec739258acc173ff536d29e86e4"
+    },
+    {
+     "from": "1998-03-31",
+     "units": 19,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "4a440c1d5c1ad1ca6a66d24a7b8eb010f588ab62eaaca17573c6a8ad13b20d1e"
+    },
+    {
+     "from": "1998-06-05",
+     "units": 19,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "20de99564d95a3cc4643e62beddcefc09189d979338135b172cd27d5a23adfac"
+    },
+    {
+     "from": "1998-08-21",
+     "units": 21,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "0a81d06029c0664ee233690c37781765ac7df516f11d5182c25ae11c3e3c0726"
+    },
+    {
+     "from": "2000-12-07",
+     "units": 23,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "5d48ca7b8116838944ebfd8b5711d824640c765c7fa9562bec96768776f51ff0"
+    },
+    {
+     "from": "2002-08-22",
+     "units": 26,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "3f9a258e934bf43ebcff86de87ac80b31a3b41f47aceb854274e5a7e61b9e0fe"
+    },
+    {
+     "from": "2003-02-06",
+     "units": 27,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "36f34e88f2027793b24c38bb80f19424eb36b95d0e9b04001ccb12507b8c46b3"
+    },
+    {
+     "from": "2003-09-26",
+     "units": 31,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "a738c9bcdb0eedd0f1e46f79da96c1e723719196b8689f31854dec88bfa7a3a4"
+    },
+    {
+     "from": "2003-12-10",
+     "units": 32,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "450960c6f09227932d0eede8d81d59658cf5dba7259701e99db9d89384764b22"
+    },
+    {
+     "from": "2004-08-03",
+     "units": 33,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "8d0f9aa107b982bd7eaaa0e466d7421805b05dbc32eb000e01f632c5ca173c4e"
+    },
+    {
+     "from": "2004-10-01",
+     "units": 34,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "43b198e0453b72f19a65a479a920e1732b22d3c9f26c573371673e0038dfc817"
+    },
+    {
+     "from": "2006-09-20",
+     "units": 36,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "44fae7b2cc7510f7d17ac851fbe0bfeda25e424ba70d3e43f396fdf94fd8a40d"
+    },
+    {
+     "from": "2007-02-13",
+     "units": 36,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "4457dcdd6fdc644f8536443a53fbb6d22f9f8eee1f2bc5595c99e25fd75e44fe"
+    },
+    {
+     "from": "2008-01-15",
+     "units": 37,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "d3667eac1d76a552d658f87d78f6ef0b935df5c2cee991be1c60256ef8a36256"
+    },
+    {
+     "from": "2008-09-29",
+     "units": 39,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "2c6c52750256a1af11dc343b327ac2116bf8e33c0f7fe0a0d94804364b376220"
+    },
+    {
+     "from": "2008-12-03",
+     "units": 40,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "fb8d388ea3ef84a815d14a532204c6a1511f4f160c389525b188a506e0319da4"
+    },
+    {
+     "from": "2009-03-18",
+     "units": 40,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "fb8d388ea3ef84a815d14a532204c6a1511f4f160c389525b188a506e0319da4"
+    },
+    {
+     "from": "2009-09-25",
+     "units": 40,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "24f83fbadc040201e9bd31d19973465fe7d9778d75aee9645b3ea94ea9b5578d"
+    },
+    {
+     "from": "2010-09-21",
+     "units": 42,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "125dcea3075f89c20f1ff5f056626139b01207e9a5775134b681cadf0f9418ab"
+    },
+    {
+     "from": "2012-09-26",
+     "units": 42,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "75716750313eeaa66ba51224aa642b6e467d0e1a1199ab0ed5d865eac0f82787"
+    },
+    {
+     "from": "2016-04-22",
+     "units": 43,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "0d8e21c6bcddee0c9234d1abab7d281b24641310b3a0fa623c828549e87931b2"
+    },
+    {
+     "from": "2016-09-07",
+     "units": 43,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "0d8e21c6bcddee0c9234d1abab7d281b24641310b3a0fa623c828549e87931b2"
+    },
+    {
+     "from": "2017-09-21",
+     "units": 44,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "e9751232baf1cd80d202f51730f30886ecbce9b0c40c93516c2de44fded6dc5b"
+    },
+    {
+     "from": "2019-09-26",
+     "units": 44,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "e9751232baf1cd80d202f51730f30886ecbce9b0c40c93516c2de44fded6dc5b"
+    }
+   ]
+  },
+  {
+   "slug": "legal-system",
+   "short": "Wikidata",
+   "title": "Legal system of Laos: open facts from Wikidata",
+   "url": "https://www.wikidata.org/wiki/Q819",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 2,
+     "source_url": "https://www.wikidata.org/wiki/Special:EntityData/Q819.json",
+     "sha256": "6795eff37d44413af0f991b7e85a038bce8401d3ced4893711620b28bdf66ba4"
+    }
+   ]
+  },
+  {
+   "slug": "catalogue",
+   "short": "Catalogue",
+   "title": "Catalogue of laws of Laos recorded by WIPO Lex (title, date, link only; no law text)",
+   "url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+   "versions": [
+    {
+     "from": "1990-03-27",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1991-08-15",
+     "units": 2,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1995-01-09",
+     "units": 3,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1997-06-20",
+     "units": 4,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1998-10-10",
+     "units": 5,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1998-11-06",
+     "units": 6,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2001-04-10",
+     "units": 7,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2001-10-11",
+     "units": 8,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2002-03-07",
+     "units": 9,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2003-02-18",
+     "units": 10,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2004-05-15",
+     "units": 11,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2004-05-17",
+     "units": 12,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2004-08-01",
+     "units": 13,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2004-10-22",
+     "units": 14,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2005-04-09",
+     "units": 15,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2005-05-19",
+     "units": 16,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2005-05-20",
+     "units": 17,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2007-11-08",
+     "units": 18,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2017-05-15",
+     "units": 19,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2017-11-08",
+     "units": 20,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2018-03-01",
+     "units": 21,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 22,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2019-12-17",
+     "units": 23,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2020-01-20",
+     "units": 24,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2020-02-11",
+     "units": 25,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2023-11-20",
+     "units": 26,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    }
+   ]
+  },
+  {
+   "slug": "wipo-treaties",
+   "short": "WIPO treaties",
+   "title": "Treaty actions of Laos recorded by WIPO Lex (facts only; no treaty text)",
+   "url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+   "versions": [
+    {
+     "from": "1952-02-28",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1954-08-19",
+     "units": 5,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1955-02-28",
+     "units": 6,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1955-06-13",
+     "units": 7,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1956-10-29",
+     "units": 10,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1967-12-29",
+     "units": 11,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1976-06-17",
+     "units": 12,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1980-11-18",
+     "units": 14,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1987-03-20",
+     "units": 15,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1992-01-28",
+     "units": 16,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1994-10-17",
+     "units": 17,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1995-01-04",
+     "units": 18,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1996-09-20",
+     "units": 20,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1997-07-23",
+     "units": 21,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1998-06-05",
+     "units": 22,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1998-06-17",
+     "units": 23,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1998-07-08",
+     "units": 24,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "1998-08-21",
+     "units": 25,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2003-02-06",
+     "units": 26,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2004-08-03",
+     "units": 27,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2006-03-14",
+     "units": 29,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2006-06-28",
+     "units": 30,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2006-09-06",
+     "units": 31,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2007-02-13",
+     "units": 32,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2007-11-05",
+     "units": 33,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2008-09-29",
+     "units": 34,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2008-10-09",
+     "units": 35,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2009-09-25",
+     "units": 36,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2009-11-26",
+     "units": 37,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2009-11-27",
+     "units": 38,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 39,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2011-12-14",
+     "units": 40,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2012-09-26",
+     "units": 41,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2013-02-02",
+     "units": 43,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2015-12-07",
+     "units": 44,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2015-12-22",
+     "units": 45,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2016-09-07",
+     "units": 46,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2019-06-11",
+     "units": 47,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2019-08-07",
+     "units": 48,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2019-09-24",
+     "units": 49,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2025-09-23",
+     "units": 50,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    },
+    {
+     "from": "2026-07-14",
+     "units": 51,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/LA",
+     "sha256": "b5eec9d93a8bd084ee1b888d9b993d766a9eefe13b496e7f6ec724c50142c750"
+    }
+   ]
+  },
+  {
+   "slug": "catalogue-gazette",
+   "short": "Gazette",
+   "title": "Catalogue of the current laws of Laos listed by the Lao Official Gazette (title, number, date, gazette date; no law text)",
+   "url": "https://laoofficialgazette.gov.la/",
+   "versions": [
+    {
+     "from": "1998-10-10",
+     "units": 1,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2005-05-20",
+     "units": 2,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2007-12-25",
+     "units": 3,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2008-07-25",
+     "units": 4,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2009-07-09",
+     "units": 5,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2009-11-26",
+     "units": 6,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2010-06-30",
+     "units": 7,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2011-12-21",
+     "units": 9,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2012-07-11",
+     "units": 10,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2012-12-12",
+     "units": 12,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2012-12-13",
+     "units": 13,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2012-12-14",
+     "units": 14,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2012-12-18",
+     "units": 15,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2013-07-24",
+     "units": 16,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2013-12-13",
+     "units": 17,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2013-12-18",
+     "units": 18,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2013-12-19",
+     "units": 19,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2013-12-20",
+     "units": 20,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2013-12-24",
+     "units": 21,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2013-12-25",
+     "units": 22,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2013-12-27",
+     "units": 23,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2014-09-10",
+     "units": 24,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2014-12-19",
+     "units": 25,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2014-12-23",
+     "units": 26,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2014-12-26",
+     "units": 27,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2015-07-15",
+     "units": 28,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2015-08-28",
+     "units": 29,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2015-12-09",
+     "units": 30,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2015-12-10",
+     "units": 31,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2015-12-11",
+     "units": 32,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2015-12-14",
+     "units": 33,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2015-12-15",
+     "units": 34,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2015-12-16",
+     "units": 35,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2015-12-17",
+     "units": 36,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2016-11-04",
+     "units": 37,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2016-11-07",
+     "units": 38,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2016-11-08",
+     "units": 39,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2016-11-10",
+     "units": 40,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2016-11-11",
+     "units": 41,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2016-11-15",
+     "units": 42,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-05-03",
+     "units": 43,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-05-04",
+     "units": 44,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-05-05",
+     "units": 45,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-05-08",
+     "units": 46,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-05-09",
+     "units": 48,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-05-10",
+     "units": 50,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-05-11",
+     "units": 51,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-05-12",
+     "units": 52,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-05-17",
+     "units": 53,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-05-24",
+     "units": 54,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-10-30",
+     "units": 55,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-10-31",
+     "units": 56,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-11-01",
+     "units": 57,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-11-02",
+     "units": 58,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-11-03",
+     "units": 59,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-11-08",
+     "units": 60,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-11-13",
+     "units": 61,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-11-14",
+     "units": 62,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-11-15",
+     "units": 63,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2017-11-16",
+     "units": 64,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2018-06-13",
+     "units": 65,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2018-06-14",
+     "units": 67,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2018-06-15",
+     "units": 68,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2018-06-18",
+     "units": 69,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2018-06-20",
+     "units": 70,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2018-06-22",
+     "units": 71,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2018-06-25",
+     "units": 72,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2018-06-26",
+     "units": 73,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2018-06-27",
+     "units": 74,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2018-12-06",
+     "units": 75,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2018-12-10",
+     "units": 76,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2018-12-11",
+     "units": 77,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2018-12-12",
+     "units": 78,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2018-12-13",
+     "units": 79,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2018-12-14",
+     "units": 80,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2018-12-17",
+     "units": 81,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2019-06-12",
+     "units": 82,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2019-06-13",
+     "units": 83,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2019-06-14",
+     "units": 84,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2019-06-17",
+     "units": 85,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2019-06-18",
+     "units": 86,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2019-06-19",
+     "units": 87,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2019-06-20",
+     "units": 88,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2019-06-21",
+     "units": 89,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2019-06-24",
+     "units": 90,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2019-06-25",
+     "units": 91,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2019-11-22",
+     "units": 92,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2019-11-25",
+     "units": 93,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2019-11-27",
+     "units": 94,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2019-11-28",
+     "units": 95,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2019-11-29",
+     "units": 96,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2019-12-03",
+     "units": 97,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2019-12-26",
+     "units": 98,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2020-06-29",
+     "units": 99,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2020-11-09",
+     "units": 100,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2020-11-10",
+     "units": 101,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2020-11-11",
+     "units": 102,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2020-11-12",
+     "units": 103,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2021-08-07",
+     "units": 104,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2021-08-09",
+     "units": 105,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2021-11-16",
+     "units": 114,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2021-11-17",
+     "units": 116,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2022-07-07",
+     "units": 125,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2022-12-29",
+     "units": 137,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2023-07-17",
+     "units": 147,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2023-11-20",
+     "units": 154,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2024-06-28",
+     "units": 162,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 163,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2024-11-01",
+     "units": 164,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2024-12-11",
+     "units": 172,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2024-12-12",
+     "units": 173,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2025-03-20",
+     "units": 176,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2025-06-25",
+     "units": 181,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    },
+    {
+     "from": "2025-06-26",
+     "units": 182,
+     "source_url": "https://laoofficialgazette.gov.la/",
+     "sha256": "f1f74c74826ec9f99dfad0c2f000bc61ae898b5514dd8eb614420f57ceedfef5"
+    }
+   ]
+  }
+ ]
+}

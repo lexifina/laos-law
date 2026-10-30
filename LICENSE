@@ -1,0 +1,9 @@
+The treaty facts are taken from the United Nations Treaty Collection (https://treaties.un.org/), retrieved 30 October 2026:
+treaty names, kinds of action and dates only. The Treaty Collection's robots.txt (Crawl-delay: 2) was obeyed.
+
+The catalogue-gazette facts (Lao titles, numbers, dates, responsible bodies) come from the list of all current laws published by the Lao Official Gazette, https://laoofficialgazette.gov.la/, retrieved 30 October 2026; no law text is copied. The catalogue and wipo-treaties facts come from WIPO Lex, https://www.wipo.int/wipolex/, whose content is published under CC BY 4.0 (https://www.wipo.int/web/terms-of-use); only facts are copied. Source: World Intellectual Property Organization. Changes made by Lexifina: records were turned into one Markdown file per record, with the dates arranged as a git history. WIPO does not endorse this repository.
+
+The legal-system facts are from Wikidata (https://www.wikidata.org/), released under CC0 1.0 Universal.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
